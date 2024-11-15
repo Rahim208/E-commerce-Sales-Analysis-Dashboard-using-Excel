@@ -1,0 +1,1 @@
+Just wrapped up creating a dynamic sales dashboard that brings E-commerce data to life! This dashboard features filters for easy data navigation, empowering users to make data-driven decisions effectively.
